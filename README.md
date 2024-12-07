@@ -1,11 +1,11 @@
-Banking Application
-https://drive.google.com/file/d/1bj2_XCHJ6YcCfYAutmW2ospRDdGMl5od/view?usp=drive_link
+# Banking Application
+    https://drive.google.com/drive/folders/123TMnxb2Q69fZzbgl9m1EoN2rC0QuZiQ?usp=sharing
 
 Welcome to the Banking Application repository! This Java web application provides a comprehensive banking system with functionalities for both administrators and customers. Built using JSP, servlets, and MySQL, the application ensures secure and seamless banking operations.
 
-Key Features
+## Key Features
 
-Admin Dashboard
+### Admin Dashboard
 - **Secure Login:** Authentication with username and password.
 - **Customer Management:** Register, view, modify (excluding sensitive details), and delete customers.
 - **Account Management:** Create accounts with generated numbers and temporary passwords.
